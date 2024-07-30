@@ -1,0 +1,16 @@
+https://devgagan.in/wp-content/uploads/2024/06/ggnpyro.zip
+tgcrypto
+pyromod
+opencv-python-headless
+requests
+motor
+pytz
+flask
+telethon
+aiojobs
+werkzeug==2.2.2
+speedtest-cli
+pymongo
+gunicorn==20.1.0
+Jinja2==3.0.3
+itsdangerous==2.0.1
